@@ -14,7 +14,7 @@ object HelloWebApp {
 @Controller
 @EnableAutoConfiguration
 class DeepMe {
-  @RequestMapping(Array("/"))
+  @RequestMapping(Array("/Deep"))
   @ResponseBody
   def home(): String = "Hello World!"
  
