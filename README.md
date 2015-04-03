@@ -1,7 +1,7 @@
-hello-world
+Hello World Scala Spring-boot Web App
 ===========
 
-CMPE 273 Lab 1: Creating Hello World Repository for getting along with GitHub.
+Creating Hello World Repository for getting along with GitHub.
 
 Trying to edit/update/save same file.
 Now trying edit update from Amazone Cloud EC2.
